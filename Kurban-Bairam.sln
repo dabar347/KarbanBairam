@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{F942E42B-701F-ED0C-868E-8D29A1C029C3}") = "Kurban-Bairam", "Assembly-CSharp.csproj", "{A556F605-5BE3-0717-BDFE-62C0DC472B2F}"
+EndProject
+Project("{F942E42B-701F-ED0C-868E-8D29A1C029C3}") = "Kurban-Bairam", "Assembly-CSharp-Editor.csproj", "{6EB41AD4-BCC9-AED0-4849-8B2C545A872F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A556F605-5BE3-0717-BDFE-62C0DC472B2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A556F605-5BE3-0717-BDFE-62C0DC472B2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A556F605-5BE3-0717-BDFE-62C0DC472B2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A556F605-5BE3-0717-BDFE-62C0DC472B2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EB41AD4-BCC9-AED0-4849-8B2C545A872F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EB41AD4-BCC9-AED0-4849-8B2C545A872F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EB41AD4-BCC9-AED0-4849-8B2C545A872F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EB41AD4-BCC9-AED0-4849-8B2C545A872F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
